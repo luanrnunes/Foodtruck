@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Foodtruck.Negocio
+namespace FoodTruck.Negocio
 {
     public class Validacao
     {
@@ -21,6 +21,6 @@ namespace Foodtruck.Negocio
         {
             this.Mensagens = new Dictionary<string, string>();
         }
-        
+
     }
 }
